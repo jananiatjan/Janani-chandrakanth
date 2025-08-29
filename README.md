@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janani</h1>
-<h3 align="center">Pre-final Year B.Tech Student | Full Stack Development Learner | Exploring Figma for UI/UX and UiPath for Automation</h3>
+<h3 align="center">Final Year B.Tech Student</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif">
 
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript and React to build interactive web applications, along with basics of back-end development.**
 
-- 👯 I’m eager to collaborate on projects involving **Three.js or interactive UI/UX design to expand my understanding of immersive web experiences.**
+- 👯 I’m eager to collaborate on projects involving **interactive UI/UX design to expand my understanding of immersive web experiences.**
 
 - 📫 How to reach me **janani.2205041@srec.ac.in**
 
